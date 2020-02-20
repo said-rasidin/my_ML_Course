@@ -1,2 +1,2 @@
-# my_ML_Course
-my learning step to become ML expert
+# My_ML_Course
+my learning steps from various sources to become ML expert
